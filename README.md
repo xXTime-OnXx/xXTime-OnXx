@@ -22,4 +22,4 @@
 </p>
 
 ## Activity <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="22px">
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=xXTime-OnXx&theme=dracula&hide_border=true)
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=xXTime-OnXx&theme=github&hide_border=true)
