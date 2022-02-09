@@ -1,4 +1,4 @@
-# Hi, I'm Timon Schmid <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
+# Hi, I'm Timon Schmid <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="29px">
 
 ## Stats📈
 <p align="center">
