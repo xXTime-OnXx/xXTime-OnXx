@@ -1,6 +1,6 @@
-# Hi, I'm Timon Schmid <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="40px">
+# Hi, I'm Timon Schmid <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="35px">
 
-## About Me
+## About Me <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px">
 <table>
   <tr>
     <td valign="center">
