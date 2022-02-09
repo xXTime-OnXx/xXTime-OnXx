@@ -1,4 +1,4 @@
-### Hi there 👋
+# Hi, I'm Timon Schmid <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
 
 <!--
 **xXTime-OnXx/xXTime-OnXx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
