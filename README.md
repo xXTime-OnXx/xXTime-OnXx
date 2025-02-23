@@ -6,7 +6,7 @@
     <td valign="center">
       <ul>
         <li>🎯 I am currently improving my skills in <strong>Java</strong> and also <strong>Web Development</strong>.</li>
-        <li>🎓 I am currently preparing for the <strong>Bachelor</strong> in <strong>Artificial Intelligence & Machine Learning</strong>.</li>
+        <li>🎓 I am currently studying <strong>Artificial Intelligence & Machine Learning</strong>.</li>
       </ul>
     </td>
     <td>
